@@ -7,7 +7,7 @@ using namespace std;
 
 int main()
 {
-    float aproximacion = 0.0, valorPi = 0.0, diferencia = 0.0000001;
+    float aproximacion{0}, valorPi{0}, diferencia{0.0000001};
     int i = 0;
 
     do
